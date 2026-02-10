@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "title": "Docbase - Digitalisieren Sie Ihre Dokumente",
+    "description": "Die DSGVO-konforme App zur Dokumentenverwaltung. Scannen, organisieren und sichern Sie Ihre physischen Dokumente mit On-Device OCR und verschlüsseltem Cloud-Speicher."
+  },
+  "nav": {
+    "features": "Features",
+    "privacy": "Datenschutz",
+    "download": "Download"
+  },
+  "hero": {
+    "title": "Ihre Dokumente.",
+    "titleHighlight": "Digital. Sicher.",
+    "description": "Die DSGVO-konforme App zur Dokumentenverwaltung. Scannen, organisieren und sichern Sie Ihre physischen Dokumente mit On-Device OCR.",
+    "cta": "Kostenlos herunterladen",
+    "ctaSecondary": "Features entdecken",
+    "appPreview": "App Screenshot",
+    "comingSoon": "Kommt bald"
+  },
+  "features": {
+    "title": "Alles was Sie brauchen",
+    "description": "Docbase bietet alle Funktionen, die Sie für eine moderne Dokumentenverwaltung benötigen.",
+    "scan": {
+      "title": "Dokumente scannen",
+      "description": "Fotografieren Sie Ihre Dokumente mit der Kamera. Die App erkennt automatisch die Kanten und optimiert das Bild."
+    },
+    "ocr": {
+      "title": "On-Device OCR",
+      "description": "Texterkennung direkt auf Ihrem Gerät. Ihre Dokumente verlassen niemals Ihr Telefon - 100% DSGVO-konform."
+    },
+    "search": {
+      "title": "KI-gestützte Suche",
+      "description": "Finden Sie jedes Dokument in Sekunden. Die intelligente Suche durchsucht Text, Kategorien und Tags."
+    },
+    "categories": {
+      "title": "Smart Categories",
+      "description": "Organisieren Sie Dokumente in Kategorien wie Rechnungen, Verträge, Medizin und mehr."
+    },
+    "cloud": {
+      "title": "Sichere Cloud",
+      "description": "Ihre Dokumente werden verschlüsselt in Ihrem persönlichen Google Drive gespeichert. Nur Sie haben Zugriff."
+    },
+    "languages": {
+      "title": "9 Sprachen",
+      "description": "Verfügbar in Deutsch, Englisch, Türkisch, Französisch, Spanisch, Polnisch, Russisch, Italienisch und Portugiesisch."
+    }
+  },
+  "gdpr": {
+    "badge": "100% DSGVO-konform",
+    "title": "Datenschutz ist kein Feature.",
+    "titleHighlight": "Es ist unser Fundament.",
+    "onDeviceOcr": "On-Device OCR:",
+    "onDeviceOcrDesc": "Texterkennung erfolgt lokal auf Ihrem Gerät",
+    "noServerAccess": "Kein Server-Zugriff:",
+    "noServerAccessDesc": "Wir sehen Ihre Dokumente niemals",
+    "yourDrive": "Ihr Google Drive:",
+    "yourDriveDesc": "Dateien werden in Ihrem persönlichen Speicher abgelegt",
+    "driveScope": "drive.file Scope:",
+    "driveScopeDesc": "App kann nur auf selbst erstellte Dateien zugreifen",
+    "madeIn": "Made in Germany",
+    "madeInDesc": "Entwickelt mit Blick auf deutsche Datenschutzstandards"
+  },
+  "download": {
+    "title": "Bereit für ein papierloses Leben?",
+    "description": "Laden Sie Docbase jetzt kostenlos herunter und digitalisieren Sie Ihre ersten Dokumente in wenigen Minuten.",
+    "appStore": "App Store",
+    "appStoreLabel": "Download im",
+    "playStore": "Google Play",
+    "playStoreLabel": "Jetzt bei",
+    "platforms": "Verfügbar für iOS 16+ und Android"
+  },
+  "footer": {
+    "description": "Die DSGVO-konforme App zur Dokumentenverwaltung. Digitalisieren, organisieren und sichern Sie Ihre physischen Dokumente mit On-Device OCR und verschlüsseltem Cloud-Speicher.",
+    "product": "Produkt",
+    "legal": "Rechtliches",
+    "terms": "AGB",
+    "imprint": "Impressum",
+    "rights": "Alle Rechte vorbehalten.",
+    "madeIn": "Made in Germany"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Stand: Februar 2026"
+  },
+  "terms": {
+    "title": "Allgemeine Geschäftsbedingungen",
+    "lastUpdated": "Stand: Februar 2026"
+  },
+  "imprint": {
+    "title": "Impressum"
+  }
+}
