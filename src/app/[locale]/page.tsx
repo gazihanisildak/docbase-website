@@ -368,7 +368,9 @@ export default async function Home({
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#"
+              href="https://apps.apple.com/us/app/docbase/id6759154073"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-black text-white rounded-xl hover:bg-gray-800 transition-colors"
             >
               <svg className="w-8 h-8" viewBox="0 0 24 24" fill="currentColor">
