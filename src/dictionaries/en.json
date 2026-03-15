@@ -88,5 +88,9 @@
   },
   "imprint": {
     "title": "Imprint"
+  },
+  "deleteAccount": {
+    "title": "Delete Your Account",
+    "metaDescription": "Request deletion of your Docbase account and all associated data."
   }
 }

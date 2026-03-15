@@ -88,5 +88,9 @@
   },
   "imprint": {
     "title": "Impressum"
+  },
+  "deleteAccount": {
+    "title": "Konto löschen",
+    "metaDescription": "Beantragen Sie die Löschung Ihres Docbase-Kontos und aller zugehörigen Daten."
   }
 }
